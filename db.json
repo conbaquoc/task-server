@@ -1,4 +1,4 @@
-		{
+[		{
 			"name": "Signup",
 			"request": {
 				"method": "POST",
@@ -1018,3 +1018,4 @@
 			"response": []
 		}
 	
+]
