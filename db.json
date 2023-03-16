@@ -1,11 +1,3 @@
-{
-	"info": {
-		"_postman_id": "5245f2d1-e2a9-c40f-b93a-77af66edab65",
-		"name": "TaskList",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "165698"
-	},
-	"item": [
 		{
 			"name": "Signup",
 			"request": {
@@ -1025,5 +1017,4 @@
 			},
 			"response": []
 		}
-	]
-}
+	
